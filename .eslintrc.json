@@ -1,0 +1,9 @@
+{
+    "plugins":[
+        "jest-dom",
+        "testing-library"
+    ],
+    "extends":[
+        "plugin:jest-dom/recommended"
+    ]
+}
